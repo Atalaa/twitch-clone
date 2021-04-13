@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/twitch-clone/static/css/main.59a2abdd.chunk.css",
+    "main.js": "/twitch-clone/static/js/main.aadca5c6.chunk.js",
+    "main.js.map": "/twitch-clone/static/js/main.aadca5c6.chunk.js.map",
+    "runtime-main.js": "/twitch-clone/static/js/runtime-main.7061be93.js",
+    "runtime-main.js.map": "/twitch-clone/static/js/runtime-main.7061be93.js.map",
+    "static/js/2.03946fc2.chunk.js": "/twitch-clone/static/js/2.03946fc2.chunk.js",
+    "static/js/2.03946fc2.chunk.js.map": "/twitch-clone/static/js/2.03946fc2.chunk.js.map",
+    "static/js/3.045a35d4.chunk.js": "/twitch-clone/static/js/3.045a35d4.chunk.js",
+    "static/js/3.045a35d4.chunk.js.map": "/twitch-clone/static/js/3.045a35d4.chunk.js.map",
+    "index.html": "/twitch-clone/index.html",
+    "static/css/main.59a2abdd.chunk.css.map": "/twitch-clone/static/css/main.59a2abdd.chunk.css.map",
+    "static/js/2.03946fc2.chunk.js.LICENSE.txt": "/twitch-clone/static/js/2.03946fc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7061be93.js",
+    "static/js/2.03946fc2.chunk.js",
+    "static/css/main.59a2abdd.chunk.css",
+    "static/js/main.aadca5c6.chunk.js"
+  ]
+}
